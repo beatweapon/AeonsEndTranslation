@@ -331,17 +331,17 @@ Gain 2 <sprite name\="Aether" color\=#FFFFFF>.\r\nAny ally may discard a Resonan
 
 
 <i>"To those who have stepped through the breach, the pearl shows the splinters of time itself."</i> <smallcaps>Phaedraxa, Breach Mage Seer</smallcaps>=<i>"破孔を踏み越えた者には、真珠が時間の破片そのものを示す"</i> <smallcaps>フェドラクサ、破孔魔術師・シーア</smallcaps>
-Gain 2 <sprite name\="Aether" color\=#FFFFFF>.\r\nEach player reveals the top card of their deck and either discards it or returns it to the top of their deck.=2 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\n各プレイヤーは自分の山札の一番上のカードを公開し、それを捨てるか、山札の一番上に戻すかします。
-Sifter's Pearl=シフターの真珠
+Gain 2 <sprite name\="Aether" color\=#FFFFFF>.\r\nEach player reveals the top card of their deck and either discards it or returns it to the top of their deck.=2 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\n各プレイヤーはそれぞれ自分のデッキの一番上のカードを公開し、それを捨てるか、山札の一番上に戻すかを選ぶ。
+Sifter's Pearl=変化の真珠
 
 <i>"Once, the trees of V'riswood towered ancient and beautiful. These polished bits of their amber are all that remains beyond that memory."</i> <smallcaps>Brama, Breach Mage Elder</smallcaps>=<i>"かつて、ヴリスウッドの木々は古く美しくそびえ立っていた。 この磨かれた琥珀のかけらは、その記憶の彼方に残るすべてである。"</i> <smallcaps>ブラマ、破孔魔術師エルダー</smallcaps>
-When you gain this, you may place it on top of your deck.\r\nGain 2 <sprite name\="Aether" color\=#FFFFFF>.=これを得たとき、あなたは自分のデッキの一番上に置いてもよい。 \r\n2 <sprite name\="Aether" color\=#FFFFFF>を得る。
+When you gain this, you may place it on top of your deck.\r\nGain 2 <sprite name\="Aether" color\=#FFFFFF>.=これを獲得した時、捨て山ではなく自分のデッキの上にこれを配置してもよい。 \r\n2 <sprite name\="Aether" color\=#FFFFFF>を得る。
 V'riswood Amber=ヴリスウッドの琥珀
 
 
 These gems were once the most precious, the most scarce. Now they line the walls of caves like shimmering fangs.=かつて最も貴重で希少だった宝石は、いまや洞窟の壁にきらめく牙のように並んでいる。
-Gain 2 <sprite name\="Aether" color\=#FFFFFF>.\r\nIf this is the second time you have played Diamond Cluster this turn, gain an additional <nobr>2 <sprite name\="Aether" color\=#FFFFFF>.</nobr>=2 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\nこのターンにあなたが集合体ダイヤモンドをプレイするのが2回目である場合、追加で <nobr>2 <sprite name\="Aether" color\=#FFFFFF>を得る。</nobr>
-Diamond Cluster=集合体ダイヤモンド
+Gain 2 <sprite name\="Aether" color\=#FFFFFF>.\r\nIf this is the second time you have played Diamond Cluster this turn, gain an additional <nobr>2 <sprite name\="Aether" color\=#FFFFFF>.</nobr>=2 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\nこれがこのターン中にプレイした2枚目の群生ダイヤモンドなら、追加で <nobr>2 <sprite name\="Aether" color\=#FFFFFF>を得る。</nobr>
+Diamond Cluster=群生ダイヤモンド
 
 
 After learning to harness lightning, the future of magic may be man-made.=雷を利用することを学んだ後、未来の魔法は人造人間かもしれない。
@@ -354,8 +354,8 @@ Gain 2 <sprite name\="Aether" color\=#FFFFFF>.\r\nIf the top card of your discar
 Recurring Jasper=繰り返される碧玉
 
 
-Gain 2 <sprite name\="Aether" color\=#FFFFFF>.\r\nGain an additional 1 <sprite name\="Aether" color\=#FFFFFF> that can only be used to gain a spell.=2 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\n呪文カード1枚を得るためにのみ使用できる追加1 <sprite name\="Aether" color\=#FFFFFF> を得る。
-Searing Ruby=灼熱のルビー
+Gain 2 <sprite name\="Aether" color\=#FFFFFF>.\r\nGain an additional 1 <sprite name\="Aether" color\=#FFFFFF> that can only be used to gain a spell.=2 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\n追加で1 <sprite name\="Aether" color\=#FFFFFF> を得る。追加で得た<sprite name\="Aether" color\=#FFFFFF>は呪文カードの獲得にのみ使用できる。
+Searing Ruby=赤熱ルビー
 
 <i>"Some use these to heat and light their hovels against the dark of the cave. Others know that within these gems lies a fire than can be tamed."</i> <smallcaps>Ghan, Gem Scavenger</smallcaps>=<i>"ある者は洞窟の暗闇を照らすためにこれを使い、またある者は、この宝石の中にある炎を飼いならすことができると知っている"</i> <smallcaps>宝石採掘者 ガーン</smallcaps>
 <i>"They give. And then they take."</i> <smallcaps>Mist, Dagger Captain</smallcaps>=<i>"彼らは与え、そして奪う"</i> <smallcaps>ミスト、ダガー・キャプテン</smallcaps>
@@ -366,7 +366,7 @@ Banishing Topaz=追放するトパーズ
 X left in supply=残りx枚
 
 Burning Opal=燃えるオパール
-Gain 3 <sprite name\="Aether" color\=#FFFFFF>.\r\nYou may discard a card in hand. If you do, any ally draws a card.=3 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\nあなたは自分の手札にあるカード１枚を捨ててもよい。そうした場合、仲間1人はカードを1枚引く。
+Gain 3 <sprite name\="Aether" color\=#FFFFFF>.\r\nYou may discard a card in hand. If you do, any ally draws a card.=3 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\n自分の手札にあるカード１枚を捨ててもよい。そうしたなら、仲間1人はカード1枚を引く。
 <i>"Careful, youngling. You’ll be wanting tongs to handle that!"</i> <smallcaps>Adelheim, Breach Mage Weaponsmith</smallcaps>=<i>"気をつけろ、若造。 それを扱うにはトングが必要だ！"</i> <smallcaps>アーデルハイム、破孔魔術師武器職人</smallcaps>
 
 <i>"Let knowledge empower you."</i> <smallcaps>Gygar</smallcaps>=<i>"知識が力を与えてくれる"</i> <smallcaps>ガイガー</smallcaps>
@@ -374,20 +374,20 @@ Gain 3 <sprite name\="Aether" color\=#FFFFFF>.\r\nAny ally may discard a card in
 Energized Rubidium=励起ルビジウム
 <i>"They say if you look closely, the shadow of The World That Was is imprisoned within."</i> <smallcaps>Phaedraxa, Breach Mage Seer</smallcaps>=<i>"よく見ると、「かつてあった世界」の影が封じ込められているという。"</i> <smallcaps>フェドラクサ、破孔魔術師・シーア</smallcaps>
 
-Gain 3 <sprite name\="Aether" color\=#FFFFFF>.\r\nIf this is the first time you have played Clouded Sapphire this turn, any ally gains 1 charge.=3 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\nこのターンに初めて「曇サファイア」をプレイした場合、仲間1人はチャージ1を得る。
-Clouded Sapphire=曇サファイア
+Gain 3 <sprite name\="Aether" color\=#FFFFFF>.\r\nIf this is the first time you have played Clouded Sapphire this turn, any ally gains 1 charge.=3 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\nこれがこのターン中にプレイした最初の「雲色サファイア」なら、仲間1人はチャージ1を得る。
+Clouded Sapphire=雲色サファイア
 
 
 //カード和訳遺物
 
 
-The next time you focus or open a breach this turn, it costs <nobr>3 <sprite name\="Aether" color\=#FFFFFF></nobr> less.\r\n<b>OR</b>\r\nDestroy this. Deal 1 damage.=このターン、次にあなたが破孔を開くか強化をするとき、そのコストは <nobr>3 <sprite name\="Aether" color\=#FFFFFF></nobr>少なくなる。\r\n<b>または</b>\r\nこれを破壊する。1ダメージを与える。
-Flexing Dagger=屈曲短剣
+The next time you focus or open a breach this turn, it costs <nobr>3 <sprite name\="Aether" color\=#FFFFFF></nobr> less.\r\n<b>OR</b>\r\nDestroy this. Deal 1 damage.=このターン中、次に破孔を強化あるいは開放するとき、そのコストは <nobr>3 <sprite name\="Aether" color\=#FFFFFF></nobr>低下する。\r\n<b>または</b>\r\nこれを破壊する。1ダメージを与える。
+Flexing Dagger=屈曲ダガー
 <i>"Forged from unstable void ore, the blade shifts with the will of its wielder."</i> <smallcaps>Adelheim, Breach Mage Weaponsmith</smallcaps>=<i>「不安定なボイド鉱石から鍛造されたこの刃は、使い手の意志によって変化する。</i> <smallcaps>アーデルハイム、破孔魔術師武器職人</smallcaps>
 
 <i>"There are worlds within worlds, infinite realms cascading from the yawning nothing."</i> <smallcaps>Phaedraxa, Breach Mage Seer</smallcaps>=<i>"世界の中に世界があり、無の世界から無限の領域が連鎖している"</i> <smallcaps>フェドラクサ、破孔魔術師・シーア</smallcaps>
-Destroy this.\r\nDestroy up to two cards in your hand or discard pile.\r\nDraw a card.=これを破壊する。\r\n自分の手札または捨山にあるカードを2枚まで破壊する。\r\nカード1枚を引く。
-Bottled Vortex=渦動瓶詰め
+Destroy this.\r\nDestroy up to two cards in your hand or discard pile.\r\nDraw a card.=これを破壊する。\r\n自分の手札か捨て山にあるカード2枚までを破壊する。\r\nカード1枚を引く。
+Bottled Vortex=瓶詰めの渦動
 
 
 Destroy the top card of any player's discard pile.\r\n<b>OR</b>\r\nDestroy this. Gain 2 life.=任意のプレイヤーの捨山から一番上のカードを破壊する。\r\n<b>または</b>\r\nこれを破壊しする。体力2を得る。
@@ -403,10 +403,10 @@ Galvanized Bauble=ガルバリウムの泡
 
 
 
-Unstable Prism=不安定プリズム
+Unstable Prism=ゆらめくプリズム
 
-//不安定プリズム
-Play a gem in hand twice and destroy it.\r\n<b>OR</b>\r\nGain 2 <sprite name\="Aether" color\=#FFFFFF>.=手札の宝石を2回プレイして破壊する。\r\n<b>または</b>\r\n2 <sprite name\="Aether" color\=#FFFFFF>得る。
+//ゆらめくプリズム
+Play a gem in hand twice and destroy it.\r\n<b>OR</b>\r\nGain 2 <sprite name\="Aether" color\=#FFFFFF>.=自分の手札にある1枚の宝石カードを2回プレイし、そのカードを破壊する。\r\n<b>または</b>\r\n2 <sprite name\="Aether" color\=#FFFFFF>を得る。
 <i>"Not every blast needs to come from a spell."</i> <smallcaps>Lexive, Arcane Theorist</smallcaps>=<i>「すべての爆発が呪文から来る必要があるわけではありません。」</i> <smallcaps>レクシヴ、アーケイン・セオリスト</smallcaps>
 
 <i>"Not every pretty rock is a means to wage war. Some must be cut and carved into more useful things."</i> <smallcaps>Adelheim, Breach Mage Weaponsmith</smallcaps>=<i>"きれいな岩ばかりが戦争の道具ではない もっと有用なものに切り刻まねばならない"</i> <smallcaps>アーデルハイム、破孔魔術師武器職人</smallcaps>
@@ -418,8 +418,8 @@ Aether Conduit=エーテル導管
 
 
 While appearing to be crudely fashioned, these staffs contain within them the very essence of the void.=一見、粗雑な作りだが、その中には「虚空」のエッセンスが含まれている。
-You may cast a prepped spell that you prepped this turn.\r\nIf you do, that spell deals 2 additional damage.=あなたはこのターン中にセットしている呪文1枚を唱えてもよい。 \r\nそうした場合、その呪文はさらに2ダメージを与える。
-Blasting Staff=発破杖
+You may cast a prepped spell that you prepped this turn.\r\nIf you do, that spell deals 2 additional damage.=このターン中にセットした呪文1枚をキャストしてもよい。 \r\nそうした場合、その呪文は追加で2ダメージを与える。
+Blasting Staff=強撃杖
 
 
 Jian picked up the orb as if knowing its purpose. That was the last day she ever spoke.=ジアンはその目的を知っているかのようにオーブを手に取りました。 それが彼女が言葉を発した最後の日でした。
@@ -468,15 +468,15 @@ Well of Energy=エネルギーの泉
 
 //カード和訳呪文
 
-Phoenix Flame=フェニックス炎
+Phoenix Flame=不死鳥炎
 
-<b>Cast:</b> Deal 2 damage.\r\nYou may lose 1 charge to deal 2 additional damage.=<b>キャスト:</b>2ダメージを与える。\r\n追加で2ダメージを与えるために、チャージを1つ失ってもよい。
+<b>Cast:</b> Deal 2 damage.\r\nYou may lose 1 charge to deal 2 additional damage.=<b>キャスト:</b>2ダメージを与える。\r\nこの時、自分のチャージ1を捨ててもよい。そうしたなら、追加で2ダメージを与える。
 <i>"In The World That Was, there were great birds, born of fire and ash. They were thought to be immortal, and yet none now remain."</i> <smallcaps>Malastar, Breach Mage Mentor</smallcaps>=<i>"過去の世界には火と灰から生まれた偉大な鳥がいた 不死身と思われていたが、今は誰も残っていない"</i> <smallcaps>マラスター、破孔魔術師のメンター</smallcaps>
 
 
 <i>"Clear your mind, child. Drink in the void."</i> <smallcaps>Xaxos, Breach Mage Adept</smallcaps>=<i>「心を清めよ 虚空を飲め</i> <smallcaps>ザクソス、破孔魔術師・アデプト</smallcaps>
-<b>Cast:</b> Deal 2 damage.\r\nYou may destroy a card in hand.=<b>キャスト:</b>2ダメージを与える。\r\n手札を1枚破壊してもよい。
-Spectral Echo=スペクトル音響
+<b>Cast:</b> Deal 2 damage.\r\nYou may destroy a card in hand.=<b>キャスト:</b>2ダメージを与える。\r\n自分の手札にあるカード1枚を破壊してもよい。
+Spectral Echo=スペクトル残響
 
 
 <i>"Despite not being born in Gravehold, Inco quickly became one of us."</i> <smallcaps>Sahala</smallcaps>=<i>「グレイヴホールドで生まれなかったにもかかわらず、インコはすぐに我々の一員となった。</i> <smallcaps>サハラ</smallcaps>
@@ -485,8 +485,8 @@ Tethered Darts=繋がれしダーツ
 
 
 <i>"The breaches are merely a mirror through which worlds whisper."</i> <smallcaps>Phaedraxa, Breach Mage Seer</smallcaps>=<i>"破孔は世界の囁きを映し出す鏡にすぎない"</i> <smallcaps>フェドラクサ、破孔魔術師・シーア</smallcaps>
-<b>Cast:</b> Focus your closed breach with the lowest focus cost. Deal 2 damage. If all your breaches are opened, deal 1 additional damage.=<b>キャスト:</b> 最も強化コストの低い閉じた破孔を強化する。2ダメージを与える。あなたの破孔がすべて開いてる場合、さらに1ダメージを与える。
-Amplify Vision=増幅ビジョン
+<b>Cast:</b> Focus your closed breach with the lowest focus cost. Deal 2 damage. If all your breaches are opened, deal 1 additional damage.=<b>キャスト:</b> 自分の閉鎖状態の破孔のうち、現在の強化コストが最小のもの1つを強化する。2ダメージを与える。もし自分の破孔がすべて開放状態なら、追加で1ダメージを与える。
+Amplify Vision=ビジョン増幅
 
 
 When you gain this, you may place it on top of any player's discard pile.\r\n<b>Cast:</b> Deal 2 damage.\r\nDeal 1 additional damage for each other time you have cast Blaze this turn and for each other Blaze you currently have prepped.=あなたがこれを得たとき、あなたはそれを任意のプレイヤーの捨て山の一番上に置いてもよい。\r\n<b>キャスト:</b> 2ダメージ与える。このターンにあなたが連発をキャストした回数と、現在あなたがセットしている他の連発1つにつき、さらに1ダメージを与える。
@@ -499,7 +499,7 @@ Force Amplifier=力の増幅
 
 <i>"We are but one flickering flame against unimaginable dark."</i> <smallcaps>Kadir, Breach Mage Delver</smallcaps>=<i>"我々は想像を絶する暗黒に対して、揺らめく一つの炎に過ぎない。"</i> <smallcaps>破孔魔術士デルバー、カディア</smallcaps>
 <b>Cast:</b> Deal 2 damage.\r\nAny ally gains 1 charge.=<b>キャスト:</b> 2ダメージを与える。\r\n仲間1人はチャージ1を得る。
-Ignite=焼け付く
+Ignite=炎上
 
 
 When solidified, a deadly obstacle becomes a deadly weapon.=固まると、致命的な障害が致命的な武器になる。
@@ -507,8 +507,8 @@ When solidified, a deadly obstacle becomes a deadly weapon.=固まると、致�
 Lava Bolt=溶岩ボルト
 
 
-While prepped, at the end of your casting phase deal 1 damage.\r\n<b>Cast:</b> Deal 3 damage.=セット中：自分のターンの呪文フェイズの終了時に1ダメージを与える。\r\n<b>キャスト:</b> 3ダメージを与える。
-Lava Tendril=溶岩テンドル
+While prepped, at the end of your casting phase deal 1 damage.\r\n<b>Cast:</b> Deal 3 damage.=セット中：自分の呪文フェイズの終了時に1ダメージを与える。\r\n<b>キャスト:</b> 3ダメージを与える。
+Lava Tendril=溶岩触肢
 <i>"My turn!"</i> <smallcaps>Nym, Breach Apprentice</smallcaps>=<i>"私の番だ！"</i> <smallcaps>ニム、破孔見習い</smallcaps>
 
 
@@ -523,19 +523,19 @@ Combustion=双燃
 
 <i>"Xaxos always says, to come back to light, we must first visit the shadow."</i> <smallcaps>Malastar, Breach Mage Mentor</smallcaps>=<i>「ザクソスはいつも言っている、光に戻るには、まず影を訪れなければならない、と。</i> <smallcaps>マラスター、破孔魔術師のメンター</smallcaps>
 <b>Cast:</b> Discard up to two cards from hand.\r\nDeal 3 damage for each card discarded this way.=<b>キャスト:</b> 手札を2枚まで捨てる。 \r\nこの方法で捨てられたカード1枚につき、3ダメージを与える。
-Dark Fire=ダークファイア
+Dark Fire=闇色炎
 
 
 
 <i>"There is talk of the link between the mages and our adversaries. More and more, the difference between the two becomes harder to see."</i> <smallcaps>Ohat, Dirt Merchant</smallcaps>=<i>"魔術師と敵対者のつながりが話題になっています ますます違いがわかりにくくなりました"</i> <smallcaps>オハット、土の商人</smallcaps>
-<b>Cast:</b> Deal 3 damage.\r\nYou may discard a card in hand. If you do, any player gains 1 life.=<b>キャスト:</b> 3ダメージを与える。 \r\nあなた自分の手札にあるカード１枚を捨てもよい。そうした場合、プレイヤー1人は体力1を得る。
-Essence Theft=エッセンス窃取
+<b>Cast:</b> Deal 3 damage.\r\nYou may discard a card in hand. If you do, any player gains 1 life.=<b>キャスト:</b> 3ダメージを与える。 \r\nあなた自分の手札にあるカード１枚を捨ててもよい。そうしたなら、プレイヤー1人は体力1を得る。
+Essence Theft=エッセンス強奪
 
 
 
 <i>"All things can be tamed."</i> <smallcaps>Lash, Breach Mage Scout</smallcaps>=<i>"万物は飼い慣らすことができる"</i> <smallcaps>ラッシュ、破孔魔術師スカウト</smallcaps>
-This spell may be prepped to a closed breach without focusing it.\r\n<b>Cast:</b> Deal 3 damage.=この呪文は、強化させることなく、閉じた破孔にセットすることができる。\r\n<b>キャスト:</b> 3ダメージを与える。
-Feral Lightning=野生の雷
+This spell may be prepped to a closed breach without focusing it.\r\n<b>Cast:</b> Deal 3 damage.=この呪文は、強化を行っていない、閉鎖状態の破孔にもセットできる。\r\n<b>キャスト:</b> 3ダメージを与える。
+Feral Lightning=凶雷
 
 
 <i>"Of course it's done. Just... punch away from me first, okay?"</i> <smallcaps>Claudia</smallcaps>=<i>"もちろん出来ました ただ...最初に私から離れてパンチしてください いいですか？"</i> <smallcaps>クラウディア</smallcaps>
@@ -544,13 +544,13 @@ Imbued Smash=浸透する殴打
 
 
 Many folk have made their fortune harvesting gems. The very breaches through which The Nameless come bestow the stones with strange properties.=多くの民衆が宝石の採取で財を成してきた。 ネームレスの通る破孔は、その石に奇妙な性質を与える。
-While prepped, once per turn during your main phase you may gain <nobr>1 <sprite name\="Aether" color\=#FFFFFF>.</nobr>\r\n<b>Cast:</b> Deal 2 damage. You may discard a gem. If you do, deal additional damage equal to its cost.=セット中、1ターンに1回、自分のターンのメインフェイズ中に、 <nobr>1<sprite name\="Aether" color\=#FFFFFF>を得ることができる。</nobr>\r\n<b>キャスト:</b> 2ダメージを与える。あなたは宝石を1つ捨ててもよい。そうした場合、そのコストに等しい追加ダメージを与える。
-Oblivion Swell=忘却のうねり
+While prepped, once per turn during your main phase you may gain <nobr>1 <sprite name\="Aether" color\=#FFFFFF>.</nobr>\r\n<b>Cast:</b> Deal 2 damage. You may discard a gem. If you do, deal additional damage equal to its cost.=セット中:自分のターンのメインフェイズ中に1回だけ、 <nobr>1<sprite name\="Aether" color\=#FFFFFF>を獲得してもよい。</nobr>\r\n<b>キャスト:</b> 2ダメージを与える。あなたは宝石を1つ捨ててもよい。そうした場合、そのコストに等しい追加ダメージを与える。
+Oblivion Swell=膨らむ忘却
 
 
 <i>"Even the blind can see what little is left of our world."</i> <smallcaps>Phaedraxa, Breach Mage Seer</smallcaps>=<i>"盲人でさえも、我々の世界に残されたわずかなものを見ることができる"</i> <smallcaps>フェドラクサ、破孔魔術師・シーア</smallcaps>
-<b>Cast:</b> Deal 3 damage.\r\nDeal 2 additional damage for each prepped spell in an adjacent breach.=<b>キャスト:</b> 3ダメージを与える。\r\n隣接する破孔にあるセットしている呪文1枚につき、さらに2ダメージを与える。
-Chaos Arc=カオスアーク
+<b>Cast:</b> Deal 3 damage.\r\nDeal 2 additional damage for each prepped spell in an adjacent breach.=<b>キャスト:</b> 3ダメージを与える。\r\nさらに、隣接する破孔にセットされている呪文1枚につき追加で2ダメージを与える。
+Chaos Arc=カオス・アーク
 
 
 <i>"To thrive, everything must eat. Even shadows."</i> <smallcaps>Malastar, Breach Mage Mentor</smallcaps>=<i>"繁栄するためには、すべてが食べなければならない。" "影でさえも"</i> <smallcaps>マラスター、破孔魔術師のメンター</smallcaps>
@@ -560,7 +560,7 @@ Devouring Shadow=猛る影
 
 <i>"She may no longer speak, but she sees much."</i> <smallcaps>Brama, Breach Mage Elder</smallcaps>=<i>"彼女はもはや話すことはできないが、多くのことを見ている"</i> <smallcaps>ブラマ、破孔魔術師エルダー</smallcaps>
 <b>Cast:</b> Deal 2 damage.\r\nDeal 1 additional damage for each of your opened breaches.=<b>キャスト:</b> 2ダメージを与える。\r\n開放された破孔1つにつき、追加で1ダメージを与える。
-Planar Insight=平面洞察
+Planar Insight=空間洞察
 
 
 <i>"Who would've thought you could see the future so clearly at the end of a bolt of aether."</i> <smallcaps>Reeve, Breach Mage Elite</smallcaps>=<i>"エーテルの稲妻の先で、こんなにはっきりと未来を見ることができるなんて、誰が考えただろう。"</i> <smallcaps>リーヴ、破孔・魔術師・エリート</smallcaps>
@@ -568,19 +568,19 @@ Planar Insight=平面洞察
 Scrying Bolt=占う雷槌
 
 
-Wildfire Whip=山火事の鞭
+Wildfire Whip=熾火の鞭
 While prepped, during your main phase you may spend <nobr>2 <sprite name\="Aether" color\=#FFFFFF></nobr> to cast any player's prepped spell.\r\n<b>Cast:</b> Deal 4 damage.=セット中、自分のターンのメインフェイズ中に、あなたは <nobr>2<sprite name\="Aether" color\=#FFFFFF></nobr>を消費して任意のプレイヤーのセットしている呪文を唱えてもよい。\r\n<b>キャスト:</b> 4ダメージを与える。
 <i>"Sometimes a little motivation is needed for dire situations."</i> <smallcaps>Z'hana, Breach Mage Renegade</smallcaps>=<i>"切羽詰まった状況には、時にちょっとしたモチベーションが必要だ"</i> <smallcaps>ズハナ、破孔魔術師・レネゲイド</smallcaps>
 
 
 <i>"The taint of aether clings to everything in Gravehold. And we that survived near extinction reek with it, too."</i> <smallcaps>Nerva, Survivor</smallcaps>=<i>"グレイヴホールドの全てにエーテルが付着している。 そして、絶滅寸前で生き残った我々もまた、その悪臭を放っている。"</i> <smallcaps>ネルヴァ、生存者</smallcaps>
 While prepped, once per turn during your main phase you may return a gem you played this turn to your hand.\r\n<b>Cast:</b> Deal 4 damage.=セット中、1ターンに1回、自分のターンのメインフェイズ中に、このターンにプレイした宝石を手札に戻してもよい。\r\n<b>キャスト:</b> 4ダメージを与える。
-Arcane Nexus=不可解なネクサス
+Arcane Nexus=魔力結節
 
 
 <i>"The Far Hallow hovels still smolder from the last time a mage lost his wits and will to the void."</i> <smallcaps>Ghan, Gem Scavenger</smallcaps>=<i>"ファーハロウの小屋はまだくすぶっている" "最後に魔術士が知恵と意志を失って 虚無に帰した時のものだ"</i> <smallcaps>宝石採掘者 ガーン</smallcaps>
 <b>Cast:</b> Destroy up to two cards in hand.\r\nDeal 3 damage for each card destroyed this way.=<b>キャスト:</b> 手札を2枚まで破壊する。\r\nこの方法で破壊されたカード1枚につき、3ダメージを与える。
-Consuming Void=消費するボイド
+Consuming Void=飲み込む虚無
 
 
 <i>"Being struck by lightning would only be half as bad."</i> <smallcaps>Lash, Breach Mage Scout</smallcaps>=<i>"雷に打たれても半分ですむ"</i> <smallcaps>ラッシュ、破孔魔術師スカウト</smallcaps>
@@ -3327,11 +3327,11 @@ Your hand is at the bottom of the screen. Play the gems to gain Aether (<sprite 
 Click or drag gem cards to your play area to gain Aether (<sprite name\="Aether" color\=#FFFFFF>). We'll need as much as possible!=宝石カードをクリックまたはドラッグしてプレイエリアに置くと、エーテル（<sprite name\="Aether" color\=#FFFFFF>）を獲得できます。なるべくたくさん必要です。
 
 
-Great work! Now you can gain cards from the supply in the top right. With 4 <sprite name\="Aether" color\=#FFFFFF> you can afford either two Jades or one Diamond Cluster. The choice is yours!=素晴らしい出来です！これで、右上のサプライからカードを獲得できるようになりました。4枚の<sprite name\="Aether" color\=#FFFFFF> があれば、翡翠2枚か集合体ダイヤモンド1枚のどちらかを手に入れることができます。どちらを選ぶかはあなた次第です！
+Great work! Now you can gain cards from the supply in the top right. With 4 <sprite name\="Aether" color\=#FFFFFF> you can afford either two Jades or one Diamond Cluster. The choice is yours!=素晴らしい出来です！これで、右上のサプライからカードを獲得できるようになりました。4枚の<sprite name\="Aether" color\=#FFFFFF> があれば、翡翠2枚か群生ダイヤモンド1枚のどちらかを手に入れることができます。どちらを選ぶかはあなた次第です！
 
 
 
-Click either two Jades or one Diamond Cluster in the supply in the top right to gain them to your discard pile.=右上のサプライから翡翠2個か集合体ダイヤモンド1個をクリックし、捨山に移します。
+Click either two Jades or one Diamond Cluster in the supply in the top right to gain them to your discard pile.=右上のサプライから翡翠2個か群生ダイヤモンド1個をクリックし、捨山に移します。
 
 
 You're making excellent progress. There's one card left in your hand, and it's a spell. Spells are our best weapons against the nemesis! Prep the spell into your open breach.=あなたは素晴らしい進歩を遂げています！手札は残り1枚、しかも呪文です。呪文は、ネメシスに対する最高の武器なのです！開放した破孔に呪文を仕込みます。
@@ -3381,7 +3381,7 @@ Click and drag each Spark from its breach to the nemesis to deal 1 damage.=ス�
 The Nemesis has been dealt 2 damage and is now at 58 life, as you can see at the top of the screen. We must keep the heat on Rageborne! Prep your spells, play your gems, and this time, gain a more powerful spell.=ネメシスは2ダメージを受け、画面上部にあるようにライフが58になりました。レイジボーンに熱を与え続けるのだ! 呪文を準備し、宝石をプレイし、今度はより強力な呪文を獲得するのだ。
 
 
-Play your gems, gain a Spectral Echo spell, and prep your Sparks by clicking or dragging.=宝石をプレイし、スペクトル音響を獲得し、クリックやドラッグでスパークを準備します。
+Play your gems, gain a Spectral Echo spell, and prep your Sparks by clicking or dragging.=宝石をプレイし、スペクトル残響を獲得し、クリックやドラッグでスパークを準備します。
 
 
 At the end of this turn, your deck was empty, so the discard pile is flipped over and becomes your deck. There's no shuffling! Now you've drawn the first new gem card you gained from the supply.=このターン終了時、あなたの山札は空でしたので、捨山をひっくり返してあなたの山札とします。シャッフルはありません！これで、サプライで得た最初の新しい宝石カードを引きました。
@@ -6620,7 +6620,7 @@ Now through July 7th, save on all your favorite Handelabra Games titles during t
 
 Sahala's Level 1 Treasure=サハラのレベル1の宝物
 
-Destroy Arcane Nexus=不可解なネクサスを破壊します
+Destroy Arcane Nexus=魔力結節を破壊します
 
 Place Verdigra back into play=青緑獣をプレイに戻す
 
