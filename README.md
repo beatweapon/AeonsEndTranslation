@@ -1,0 +1,2 @@
+# AeonsEndTranslation
+Steam版イーオンズエンドの翻訳
