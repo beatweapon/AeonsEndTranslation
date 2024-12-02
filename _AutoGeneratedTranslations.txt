@@ -976,7 +976,7 @@ View Mat=マットを表示
 Footnote Text=脚注テキスト
 Any player gains 4 life.=プレーヤー1人は体力4を得る
 Activate during your main phase:=自分のターンのメインフェイズ中に使用できる。
-Brink Siphon=瀬戸際の吸入
+Brink Siphon=間際の体力注入
 Breach Mage Elder=破孔魔術師・長老
 Opened Breach=開放されている破孔
 Closed Breach=閉鎖されている破孔
@@ -1013,11 +1013,11 @@ Crystal=水晶
 <i>"The aether is trapped in even the simplest of stones. Now these gems grant us the same power that put our world low."</i> <smallcaps>Brama, Breach Mage Elder</smallcaps>=<i>"エーテルは最も単純な石にさえ閉じ込められている。 今、これらの宝石は、我々の世界を低くしたのと同じ力を我々に与える。"</i> <smallcaps>ブラマ、破孔魔術師エルダー</smallcaps>
 
 
-Amethyst Shard=アメジスト破片
-Buried Light=埋もれた光
+Amethyst Shard=アメジスト片
+Buried Light=隠された光
 Deal 1 damage. Gain <nobr>1 <sprite name\="Aether" color\=#FFFFFF>.</nobr>=1ダメージを与える。\n <nobr>1 <sprite name\="Aether" color\=#FFFFFF>を得る。</nobr>
 Deal 1 damage.=1ダメージを与える。
-Gain <nobr>1 <sprite name\="Aether" color\=#FFFFFF>.</nobr>\r\nAny ally may draw a card and then discard a card in hand.= <nobr>1 <sprite name\="Aether" color\=#FFFFFF>を得る。</nobr>\r\n仲間1人はカードを1枚引き、その後、手札にあるカード１枚を捨ててもよい。
+Gain <nobr>1 <sprite name\="Aether" color\=#FFFFFF>.</nobr>\r\nAny ally may draw a card and then discard a card in hand.= <nobr>1 <sprite name\="Aether" color\=#FFFFFF>を得る。</nobr>\r\n望むなら、仲間1人はカードを1枚引き、その後、手札にあるカード１枚を捨てる。
 <b>Cast:</b> Deal 1 damage. Gain <nobr>1 <sprite name\="Aether" color\=#FFFFFF>.</nobr>=<b>キャスト</b> 1ダメージを与える。 <nobr>1 <sprite name\="Aether" color\=#FFFFFF>得る。</nobr>
 Here is a fire that burns bright and with a single purpose: to deliver us back to The World That Was, no matter what cost.=どんな犠牲を払ってでも、私たちを「かつての世界」に連れ戻したいという一心で、明るく燃え上がる炎がここにある。
 
@@ -1026,11 +1026,11 @@ Here is a fire that burns bright and with a single purpose: to deliver us back t
 //ジアン
 Breach Mage Orphan=破孔魔術師/孤児
 Black Mirror=黒い鏡
-Cast any player's prepped spell without discarding it.\r\nThen cast that prepped spell again.=任意のプレイヤーのセットしている呪文1枚を捨てることなくキャストする。\n次に、そのセットしている呪文をもう一度キャストする。
+Cast any player's prepped spell without discarding it.\r\nThen cast that prepped spell again.=任意のプレイヤーのセットしている呪文1枚を捨てることなくキャストする。\nその後、その呪文をもう一度キャストする。
 <sprite name\="GainAether" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF><sprite name\="GainAetherGem" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF>=<sprite name\="GainAether" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF><sprite name\="GainAetherGem" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF>
 (Discard it afterward.)=（その後捨てる。）
 Gain 1 <sprite name\="Aether" color\=#FFFFFF>.\r\nGain an additional <nobr>1 <sprite name\="Aether" color\=#FFFFFF></nobr> that can only be used to gain a gem.=1 <sprite name\="Aether" color\=#FFFFFF>を得る。\n追加で<nobr>1 <sprite name\="Aether" color\=#FFFFFF></nobr>を得る。それは宝石カードを1枚を得るためにのみ使用できる。
-Moonstone Shard=ムーンストーン破片
+Moonstone Shard=ムーンストーン片
 Like many chidren of Gravehold, Jian was left an orphan, stricken silent by the very thing that took her father's light.=グレイヴホールドの多くの子供たちと同様、ジアンは孤児として残され、父の光を奪ったものによって沈黙に打ちひしがれていた。
 
 
@@ -1040,42 +1040,42 @@ Otherworldly Gate=異世界ゲート
 Activate during any player's main phase:=任意のプレイヤーのメインフェーズ中に有効
 That player may return up to three spells in their discard pile to their hand. That player may prep up to two spells to each of their opened breaches this turn.=そのプレイヤーは、自分の捨て山にある呪文を最大3枚まで手札に戻してもよい。そのプレイヤーは、このターン、開放された破孔それぞれに呪文を2枚までセットしてもよい。
 Gain 1 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>OR</b>\r\nAny player gains 1 life.=1 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\n<b>または</b>\r\nプレイヤー1人は体力1を得る。
-Emerald Shard=エメラルド破片
+Emerald Shard=エメラルド片
 The caves run deep in Gravehold, some say to a shadow city even older than time. Yet none have delved as deep as Kadir.=グレイヴホールドの洞窟は深く、ある者は時間よりも古い影の都市まで続いていると言う。 しかし、カディアほど深く掘り下げた者はいない。
 
 
 (You may not choose the wildcard turn order card.)=（ワイルドカードのターン順カードを選択することはできない。）
 <sprite name\="GainAether" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF><sprite name\="ManipulateTurnOrder" color\=#FFFFFF><sprite name\="GainAether" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF>=<sprite name\="GainAether" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF><sprite name\="ManipulateTurnOrder" color\=#FFFFFF><sprite name\="GainAether" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF>
 
-Shuffle any player's turn order card into the turn order deck. That player suffers 1 damage.=任意のプレイヤーのターン順カードをターン順カードのデッキに戻してシャッフルする。そのプレイヤーは1ダメージを受ける。
-Quicken Thought=クイック思考
+Shuffle any player's turn order card into the turn order deck. That player suffers 1 damage.=ターン順カードの捨て山にある、任意のプレイヤーのターン順カードをデッキに戻してシャッフルする。そのプレイヤーは1ダメージを受ける。
+Quicken Thought=思考加速
 Breach Mage Scout=破孔魔術師/斥候
 Gain 1 <sprite name\="Aether" color\=#FFFFFF>.\r\nReveal the top card of the turn order deck. You may place that card on the bottom or the top of the turn order deck. If you revealed a player turn order card, gain an additional <nobr>1 <sprite name\="Aether" color\=#FFFFFF>.</nobr>=1 <sprite name\="Aether" color\=#FFFFFF>を得る。\nターン順カードのデッキの一番上のカードを公開する。\nあなたはそのカードをターン順カードのデッキの一番下か一番上に置いてもよい。\nプレイヤー側のターン順カードを公開した場合、さらに <nobr>1 <sprite name\="Aether" color\=#FFFFFF>を得る。</nobr>
-Quartz Shard=クォーツ破片
+Quartz Shard=クォーツ片
 Laughter is scarce these days in Gravehold, yet Lash manages to conjure a smile in most he meets.=グレイヴホールドでは最近、笑うことが少なくなっているが、ラッシュは会う人会う人に笑顔を振りまいている。
 
 
 
 Any ally draws 4 cards.=仲間1人は4枚のカードをドローする。
-Divine Augury=卜占(ボクセン)
+Divine Augury=神占
 Dagger Captain=ダガーキャプテン
 Gain 1 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>OR</b>\r\nCast any player's prepped spell.=1 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\n<b>または</b>\r\n任意のプレイヤーのセットしている呪文をキャストする。
-Garnet Shard=ガーネット破片
+Garnet Shard=ガーネット片
 <sprite name\="GainAether" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF><sprite name\="Damage" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF><sprite name\="Destroy" color\=#FFFFFF>=<sprite name\="GainAether" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF><sprite name\="Damage" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF><sprite name\="Destroy" color\=#FFFFFF>
 Thrice she has walked into the breach to face them, a feat not yet attempted by other mages.=他の魔術師がまだ試みていない偉業である。
 
 
-Prevent any damage that the players or Gravehold would suffer during that turn.=そのターン中にプレイヤーやグレイヴホールドが受けるダメージを無効化する。
+Prevent any damage that the players or Gravehold would suffer during that turn.=そのターン中、プレイヤーおよびグレイヴホールドに与えられる全ダメージを無効にする。
 Activate immediately after a turn order card is drawn:=ターン順カードがドローされた直後に有効。
-Auspex Rune=前兆の読取ルーン
+Auspex Rune=予兆のルーン
 Breach Mage Seer=破孔魔術師/先見者
-Tourmaline Shard=トルマリン破片
+Tourmaline Shard=トルマリン片
 Gain 1 <sprite name\="Aether" color\=#FFFFFF>.\r\nAny ally may suffer 1 damage and destroy a card in hand.=1 <sprite name\="Aether" color\=#FFFFFF>を得る。\n仲間1人は1ダメージを受け、手札を1枚破壊してもよい。
 Phaedraxa is burdened with a sense beyond sight. Only she remembers The World That Was.=フェドラクサは視覚を超えた感覚を持ち、彼女だけが「かつてあった世界」を記憶している。
 
 
 Breach Mage Adept=破孔魔術師/熟練者
-Metaphysical Link=形而上学リンク
+Metaphysical Link=思惟リンク
 Allies collectively gain 4 charges. Reveal the turn order deck and return the revealed cards in any order.=仲間は合計で4チャージを得る。\nターン順カードのデッキを公開し、公開されたカードを好きな順番で戻す。
 <sprite name\="ManipulateTurnOrder" color\=#FFFFFF><sprite name\="Damage" color\=#FFFFFF><space\=-0.8em><sprite name\="3" color\=#FFFFFF><sprite name\="Damage" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF>=<sprite name\="ManipulateTurnOrder" color\=#FFFFFF><sprite name\="Damage" color\=#FFFFFF><space\=-0.8em><sprite name\="3" color\=#FFFFFF><sprite name\="Damage" color\=#FFFFFF><space\=-0.8em><sprite name\="1" color\=#FFFFFF>
 
@@ -1810,7 +1810,7 @@ The Arachnos token moves one space forward on the Ritual Track.=アラクノス�
 
 
 Garu's Torch=ガルの松明
-Brama's Buried Light=ブラマの埋もれた光
+Brama's Buried Light=ブラマの隠された光
 An ally draws a card=仲間1人がカードを1枚引く
 Deal 1 damage=1ダメージ与える
 
@@ -2665,8 +2665,8 @@ Bouncing Boom=バウンスブーム
 
 //トレジャーカード
 
-Kadir's Emerald Shard=カディアのエメラルド破片
-Mist's Garnet Shard=ミストのガーネット破片
+Kadir's Emerald Shard=カディアのエメラルド片
+Mist's Garnet Shard=ミストのガーネット片
 
 
 <b>Cast:</b> Deal 1 damage.\r\nAny ally may discard a card in hand.\r\nIf they do, do 2 additional damage.=<b>キャスト</b> 1ダメージ与える。\n仲間1人はあなたは自分の手札にあるカード１枚を捨ててもよい。\nもしそうなら、追加で2ダメージを与える。
@@ -3201,14 +3201,14 @@ Gex's Shattered Geode=ジェクスの粉砕されたジオード
 Gain 1 <sprite name\="Aether" color\=#FFFFFF>.\r\nYou may place the top card of any ally's discard pile into your hand.=1 <sprite name\="Aether" color\=#FFFFFF>を得る。\nあなたは仲間の捨山の一番上のカードを手札に加えてもよい。
 
 
-Adelheim's Amethyst Shard=ア-デルハイムのアメジスト破片Jian's Moonstone Shard=Jian's Moonstone Shard
+Adelheim's Amethyst Shard=ア-デルハイムのアメジスト片Jian's Moonstone Shard=Jian's Moonstone Shard
 If you have no closed breaches, spells you cast deal 2 additional damage.=クローズド破孔がない場合、魔法はさらに2ダメージを与える。
 
 
-Adelheim's Amethyst Shard=ア-デルハイムのアメジストシ破片
+Adelheim's Amethyst Shard=ア-デルハイムのアメジスト片
 Prism of Destruction=破壊のプリズム
-Lash's Quartz Shard=ラッシュのクォーツ破片
-Jian's Moonstone Shard=ジアンのムーンストーン破片
+Lash's Quartz Shard=ラッシュのクォーツ片
+Jian's Moonstone Shard=ジアンのムーンストーン片
 Xaxos's Flare=ザクソスのフレア
 
 
