@@ -1688,7 +1688,7 @@ Sky Tremor=空の震動
 Unleash twice.\r\nAny player discards their three most expensive cards in hand.=暴走2回。\nプレイヤー1人は手札の中で最も高価なカードを3枚捨てる。
 Eradicate=撲滅
 
-<b>POWER 1:</b> Unleash twice.\r\nThe players collectively destroy the two most expensive prepped spells.=<b>パワー1：</b> 暴走2回。\nプレイヤーたちは手札の中で最も高価な2つのセットしている呪文をまとめて破壊する。
+<b>POWER 1:</b> Unleash twice.\r\nThe players collectively destroy the two most expensive prepped spells.=<b>パワー1：</b> 暴走2回。\nプレイヤーたちはセットしている最も高価な呪文を2つまとめて破壊する。
 Ray of Desolation=荒廃の光線
 
 Unleash four times.\r\n<b>OR</b>\r\nGravehold suffers 4 damage and any player suffers 4 damage.=暴走4回。\r\n<b>または</b>\r\nグレイヴホールドは4ダメージを受け、プレイヤー1人は4ダメージを受ける。
