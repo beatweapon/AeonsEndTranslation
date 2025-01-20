@@ -1595,7 +1595,7 @@ Any player discards three cards in hand and suffers 2 damage.=プレイヤー1�
 Fugue=遁走
 
 
-Unleash.\r\nThe players collectively discard two prepped spells.\r\nAny player suffers 2 damage.=暴走。\nプレイヤーたちはセットしている呪文を2つまとめて捨てる。\nプレイヤー1人は2ダメージを受ける。
+Unleash.\r\nThe players collectively discard two prepped spells.\r\nAny player suffers 2 damage.=暴走。\nプレイヤーたちはセットしている呪文を合計2枚捨てる。\nプレイヤー1人は2ダメージを受ける。
 Mutilate=切断
 
 
@@ -1688,7 +1688,7 @@ Sky Tremor=空の震動
 Unleash twice.\r\nAny player discards their three most expensive cards in hand.=暴走2回。\nプレイヤー1人は手札の中で最も高価なカードを3枚捨てる。
 Eradicate=撲滅
 
-<b>POWER 1:</b> Unleash twice.\r\nThe players collectively destroy the two most expensive prepped spells.=<b>パワー1：</b> 暴走2回。\nプレイヤーたちはセットしている最も高価な呪文を2つまとめて破壊する。
+<b>POWER 1:</b> Unleash twice.\r\nThe players collectively destroy the two most expensive prepped spells.=<b>パワー1：</b> 暴走2回。\nプレイヤーたちはセットしている最も高価な呪文を合計2枚破壊する。
 Ray of Desolation=荒廃の光線
 
 Unleash four times.\r\n<b>OR</b>\r\nGravehold suffers 4 damage and any player suffers 4 damage.=暴走4回。\r\n<b>または</b>\r\nグレイヴホールドは4ダメージを受け、プレイヤー1人は4ダメージを受ける。
@@ -1941,12 +1941,12 @@ Enveloping Ooze=包み込むウーズ
 <b>PERSISTENT:</b> Gravehold suffers 2 damage. Any player discards the top card of their deck.=<b>継続：</b> グレイヴホールドは2ダメージを受ける。\nプレイヤー1人は自分のデッキの一番上のカードを捨てる。
 
 
-<b>POWER 3:</b> The players collectively exile two cards in hand.=<b>パワー3</b> プレイヤーたちはまとめて手札を2枚追放する。
+<b>POWER 3:</b> The players collectively exile two cards in hand.=<b>パワー3</b> プレイヤーたちは手札を合計2枚追放する。
 Temporal Leap=一時的な跳躍
 
 
 
-<b>POWER 3:</b> The players collectively exile two cards in hand or discard pile that costs 2 <sprite name\="Aether" color\=#FFFFFF> or more.=<b>パワー3</b> プレイヤーたちは手札または捨山にある2<sprite name\="Aether" color\=#FFFFFF>コスト以上のカードをまとめて2枚追放する。  
+<b>POWER 3:</b> The players collectively exile two cards in hand or discard pile that costs 2 <sprite name\="Aether" color\=#FFFFFF> or more.=<b>パワー3</b> プレイヤーたちは手札または捨山にある2<sprite name\="Aether" color\=#FFFFFF>コスト以上のカードを合計2枚追放する。  
 Burden of Knowledge=知識の負担
 
 
@@ -2279,7 +2279,7 @@ When a corruption is destroyed, it is placed on the bottom of the Corruption dec
 
 // 曲がった仮面　カード
 
-The players collectively gain two corruptions and place them on top of their decks.\r\nAny player focuses a breach.=プレイヤーたちはまとめて2つの堕落を獲得し、自分のデッキの一番上に置く。\nプレイヤー1人は破孔を強化します。
+The players collectively gain two corruptions and place them on top of their decks.\r\nAny player focuses a breach.=プレイヤーたちは合計2枚の堕落を獲得し、自分のデッキの一番上に置く。\nプレイヤー1人は破孔を強化する。
 <i>"It's the only thing that smiles more than me."</i> <smallcaps>Lash, Breach Mage Scout</smallcaps>=<i>「私より笑っているのは、この子だけ。」</i> <smallcaps>ラッシュ、破孔魔術師スカウト</smallcaps>
 Burden=重荷
 
@@ -2447,7 +2447,7 @@ Shard Spitter=破片吐獣
 
 
 The elders of Gravehold thought it wise to pave the streets of the dirt market in tumbled breach glass.=グレイヴホールドの長老たちは、土の市場の通りを転がった割れたガラスで舗装するのが賢明だと考えたのです。
-The players collectively gain two Tainted Jades and place them into their hands.=プレイヤーたちは汚れた翡翠を合計で2枚を得て、自分の手札に加える。
+The players collectively gain two Tainted Jades and place them into their hands.=プレイヤーたちは汚れた翡翠を合計2枚、自分の手札に加える。
 Vitrify=ガラス化
 
 
@@ -6750,7 +6750,7 @@ Gravity Splinter=重力分裂
 
 
 
-<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 1:</b> Unleash twice.\r\nThe players collectively discard three cards in hand.=<b>廃棄：</b> 7<sprite name\="Aether" color\=#FFFFFF>を消費する。\r\n<b>パワー1：</b> 暴走2回。\nプレイヤーたちは手札を3枚まとめて捨てる。
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 1:</b> Unleash twice.\r\nThe players collectively discard three cards in hand.=<b>廃棄：</b> 7<sprite name\="Aether" color\=#FFFFFF>を消費する。\r\n<b>パワー1：</b> 暴走2回。\nプレイヤーたちは手札を合計3枚捨てる。
 Morbid Gyre=病的なガイア
 
 
