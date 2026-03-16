@@ -390,7 +390,7 @@ Destroy this.\r\nDestroy up to two cards in your hand or discard pile.\r\nDraw a
 Bottled Vortex=瓶詰めの渦動
 
 
-Destroy the top card of any player's discard pile.\r\n<b>OR</b>\r\nDestroy this. Gain 2 life.=任意のプレイヤーの捨山から一番上のカードを破壊する。\r\n<b>または</b>\r\nこれを破壊しする。体力2を得る。
+Destroy the top card of any player's discard pile.\r\n<b>OR</b>\r\nDestroy this. Gain 2 life.=任意のプレイヤーの捨山から一番上のカードを破壊する。\r\n<b>または</b>\r\nこれを破壊する。体力2を得る。
 Caged Fire=籠の火
 <i>"I've fed it so much and it's still hungry. How?"</i> <smallcaps>Inco</smallcaps>=<i>"これだけ食べさせたのに、まだお腹が空いている。 どうして？"</i> <smallcaps>インコ</smallcaps>
 
@@ -443,7 +443,7 @@ Mage's Talisman=魔術師の護符
 
 
 <i>"Some tools are meant for making, while others hold a more pernicious task."</i> <smallcaps>Mist, Breach Mage Dagger Captain</smallcaps>=<i>"作るための道具もあれば、より悪質な任務を持つものもある。"</i> <smallcaps>ミスト、破孔魔術師ダガー隊長</smallcaps>
-Gain 1 charge.\r\nYou may destroy a card in hand or on top of any player's discard pile.=チャージ1を得る。 \r\n自分の手札または任意のプレイヤーの捨て山の一番上のカードを1枚破壊してもよい。
+Gain 1 charge.\r\nYou may destroy a card in hand or on top of any player's discard pile.=チャージ1を得る。 \r\n自分の手札または任意のプレイヤーの捨て山の一番上のカード1枚を破壊してもよい。
 Molten Hammer=溶けたハンマー
 
 
@@ -4717,7 +4717,7 @@ Closed Vortex Breach=閉じた渦動破孔
 Permanent +1 Damage on Cast=キャスト時のダメージを永続的に+1する
 
 
-Reveal the top card of the turn order deck, and then place it back on top of the turn order deck. If you revealed a player turn order card, deal 3 damage. Otherwise deal 1 damage.=ターン順デッキのトップカードを表示し、ターン順デッキの上に戻します。\nプレイヤーターン注文カードを明らかにした場合は、3ダメージを与えます。\nそれ以外の場合は、1ダメージを与えます。
+Reveal the top card of the turn order deck, and then place it back on top of the turn order deck. If you revealed a player turn order card, deal 3 damage. Otherwise deal 1 damage.=ターン順デッキのトップカードを表示し、ターン順デッキの上に戻します。\nプレイヤーターン順カードを明らかにした場合は、3ダメージを与えます。\nそれ以外の場合は、1ダメージを与えます。
 
 
 
